@@ -16,7 +16,7 @@ Social-STGCNN with contrastive learning for trajectory prediction in human crowd
 
 
 
-#Datasets Included
+# Datasets Included
 
 ## 1. ETH Dataset
 
