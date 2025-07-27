@@ -42,13 +42,13 @@ Social-STGCNN with contrastive learning for trajectory prediction in human crowd
 - 🔗 **Dataset info**: [https://paperswithcode.com/dataset/ucy](https://paperswithcode.com/dataset/ucy)
 - **Citation**:
   ```bibtex
-@inproceedings{lerner2007crowds,
-  title={Crowds by example},
-  author={Lerner, Alon and Chrysanthou, Yiorgos and Lischinski, Dani},
-  booktitle={Computer Graphics Forum},
-  year={2007},
-  organization={Wiley Online Library}
-}
+  @inproceedings{lerner2007crowds,
+    title={Crowds by example},
+    author={Lerner, Alon and Chrysanthou, Yiorgos and Lischinski, Dani},
+    booktitle={Computer Graphics Forum},
+    year={2007},
+    organization={Wiley Online Library}
+  }
 
 # Quick Start
 ```bash
