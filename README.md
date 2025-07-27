@@ -13,9 +13,9 @@ Social-STGCNN with contrastive learning for trajectory prediction in human crowd
 | PyTorch       | 1.8.1                         |
 | CUDA          | 11.1                          |
 
-To quickly set up the environment:
 
+# Quick Start
 ```bash
-conda create -n stgcnn python=3.8
-conda activate stgcnn
 pip install -r requirements.txt
+python train.py
+python test.py
