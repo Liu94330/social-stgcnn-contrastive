@@ -24,6 +24,15 @@ Social-STGCNN with contrastive learning for trajectory prediction in human crowd
 - **Description**: Collected in outdoor public spaces with natural human crowd behavior.
 - 📎 **Download**: [https://data.vision.ee.ethz.ch/cvl/aem/ewap_dataset_full.tgz](https://data.vision.ee.ethz.ch/cvl/aem/ewap_dataset_full.tgz)
 - 🔗 **Official site**: [https://icu.ee.ethz.ch/research/datsets.html](https://icu.ee.ethz.ch/research/datsets.html)
+- **Citation**:
+  ```bibtex
+  @inproceedings{pellegrini2009you,
+    title={You’ll never walk alone: Modeling social behavior for multi-target tracking},
+    author={Pellegrini, Stefano and Ess, Andreas and van Gool, Luc},
+    booktitle={IEEE International Conference on Computer Vision (ICCV)},
+    year={2009}
+  }
+
 
 ## 2. UCY Dataset
 
@@ -31,7 +40,15 @@ Social-STGCNN with contrastive learning for trajectory prediction in human crowd
 - **Description**: Annotated pedestrian trajectories collected in a university campus setting.
 - 📎 **Download**: [https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
 - 🔗 **Dataset info**: [https://paperswithcode.com/dataset/ucy](https://paperswithcode.com/dataset/ucy)
-
+- **Citation**:
+  ```bibtex
+@inproceedings{lerner2007crowds,
+  title={Crowds by example},
+  author={Lerner, Alon and Chrysanthou, Yiorgos and Lischinski, Dani},
+  booktitle={Computer Graphics Forum},
+  year={2007},
+  organization={Wiley Online Library}
+}
 
 # Quick Start
 ```bash
